@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-2sjjpp.hartawin-pro.online/sitemap.xml
